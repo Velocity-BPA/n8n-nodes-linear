@@ -2,7 +2,7 @@
   "name": "n8n-nodes-linear",
   "version": "1.0.0",
   "description": "A comprehensive n8n community node for Linear providing 15 resources and 100+ operations for issue tracking, project management, and team collaboration. Includes full GraphQL API integration with webhook triggers.",
-  "license": "BUSL-1.1",
+  "license": "SEE LICENSE IN LICENSE.md",
   "author": {
     "name": "Velocity BPA",
     "email": "licensing@velobpa.com",
@@ -69,7 +69,8 @@
     "prettier": "^3.1.0",
     "rimraf": "^5.0.5",
     "ts-jest": "^29.1.1",
-    "typescript": "^5.3.2"
+    "typescript": "^5.3.2",
+    "n8n-workflow": "1.57.0"
   },
   "peerDependencies": {
     "n8n-workflow": ">=1.0.0"
